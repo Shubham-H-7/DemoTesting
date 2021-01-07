@@ -5,5 +5,5 @@ Library  SeleniumLibrary
 Open Google Browser
     Open Browser    ${url}  ${brows}
     Maximize Browser Window
-    sleep 3s
+    sleep 2s
     Execute Javascript  Window.scrollTo(0, 300)
