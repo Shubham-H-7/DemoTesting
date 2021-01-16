@@ -6,3 +6,9 @@ Resource  ../Operational/locatorVariables.robot
 User should be able to land on Google Page
     [Tags]  demo
     Open Google Browser
+    Search for robotframework
+    Check the product
+    Remove product off cart
+   # Go to home page
+
+
